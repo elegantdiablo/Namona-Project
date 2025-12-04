@@ -1,0 +1,6 @@
+@NamonaDataBase_HostAddress = http://localhost:5191
+
+GET {{NamonaDataBase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
