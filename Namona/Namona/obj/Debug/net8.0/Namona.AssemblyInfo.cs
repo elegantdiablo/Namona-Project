@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Namona")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da7fa7dfb633d0c8080a16053c2f4ea45d66a3ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8889938fe2a06afabcaa439ea3154c28200825fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Namona")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Namona")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
