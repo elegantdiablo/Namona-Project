@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona.csproj": {}
+    "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\Namona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona.csproj": {
+    "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\Namona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona.csproj",
+        "projectUniqueName": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\Namona.csproj",
         "projectName": "Namona",
-        "projectPath": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona.csproj",
+        "projectPath": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\Namona.csproj",
         "packagesPath": "C:\\Users\\abdel.zaher.amir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\obj\\",
+        "outputPath": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,8 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.4, )"
             },

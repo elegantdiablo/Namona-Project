@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9wwhgoo7sig=",
+  "dgSpecHash": "YtlgkomXxMQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona.csproj",
+  "projectFilePath": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\Namona.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdel.zaher.amir\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\abdel.zaher.amir\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
